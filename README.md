@@ -1,8 +1,8 @@
 # Python
 # Datatypes
 
-# 1.String
-# 2. Numeric
+**1.String
+2. Numeric**
 
 In Numeric it is again divided into int and float 
 
