@@ -11,3 +11,6 @@ def substraction():
 def multiplication():
     mul = num1*num2
     print(mul)
+
+substraction()
+multiplication()
