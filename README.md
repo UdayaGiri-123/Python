@@ -66,8 +66,8 @@ Packages are like group of modules
 ## Python workspaces
 In our machine if there is a need to use different environments holding diff python versions or installed with unique package types , Workspaces can be used.
 
-# create a new workspace
+###### create a new workspace
 python -m venv projabc  // this creates a new folder in the current directory
 
-# activate the workspace
+###### activate the workspace
 projabc\Scripts\activate
