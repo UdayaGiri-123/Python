@@ -1,0 +1,15 @@
+Environmental variables:
+
+For storing sensitive information like passwords, api keys or auth tokens 
+
+Instead of hard coding or passing them through command line args , we use "env vars"
+
+Creating a new env var :
+
+We can create new environmental variables inside terminal using 'export' keyword
+
+Once stored , we can read these variables from python code or shell script
+
+Reading the env var :
+
+We use a module called 'os' to read these env variables
