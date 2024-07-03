@@ -44,9 +44,9 @@ Importance of using functions in code
 ##### 1. Reusability
   When we define a function using 'def' keyword, it can be used anywhere in the code.
   Example : addition method once defined can be called multiple times
-  def addition():
-    add =  num1+num2
-    print(add)
+  ##### def addition():
+  #####  add =  num1+num2
+  #####  print(add)
 ##### 2. Readability
    When we define functions, it gives a structured format for our code reducing clumsyness.
 ##### 3. Debugging
