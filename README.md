@@ -28,3 +28,12 @@ Few of those keywords are :
 ##### 8.elif
 ##### 9.class
 ##### 10.def
+
+## Variables in python:
+
+##### 1. Local variables 
+Variables defined inside a method whose scope is restricted to the method or function are Local variables.
+
+
+##### 2. Global variables
+Variables defined outside of method or block are global variables and they can be used anywhere throughout the program. 
