@@ -1,0 +1,11 @@
+Command line arguments :
+
+Example : to pass 2 values from CLI itself
+
+>> python calculator.py 2 add 3 
+
+using 'sys' module we can read these arguments
+
+
+
+
