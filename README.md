@@ -18,13 +18,13 @@ as variables to store any data as it will conflict and the interpreter can't pro
 
 Few of those keywords are :
 
-1.And
-2.Or
-3.Not
-4.for
-5.while
-6.if
-7.else
-8.elif
-9.class
-10.def
+ 1.And
+ 2.Or
+ 3.Not
+ 4.for
+ 5.while
+ 6.if
+ 7.else
+ 8.elif
+ 9.class
+ 10.def
