@@ -52,3 +52,22 @@ Importance of using functions in code
 ##### 3. Debugging
    It is also easier to debug the code
 DRY - Don't repeat yourself
+
+## Modules:
+
+Modules are nothing but group of functions. A set of methods can be defined in a file and that can be exported as module.
+
+We use 'import' keyword to get the module and use functions defined under it.
+
+## Packages:
+
+Packages are like group of modules
+
+## Python workspaces
+In our machine if there is a need to use different environments holding diff python versions or installed with unique package types , Workspaces can be used.
+
+# create a new workspace
+python -m venv projabc  // this creates a new folder in the current directory
+
+# activate the workspace
+projabc\Scripts\activate
